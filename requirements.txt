@@ -1,0 +1,13 @@
+# local package
+-e .
+
+# external requirements
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+dill
