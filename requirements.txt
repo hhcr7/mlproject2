@@ -7,7 +7,9 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+category-encoders
 catboost
 xgboost
 Flask
 dill
+requests
